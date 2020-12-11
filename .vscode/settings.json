@@ -1,5 +1,4 @@
 {
-  "editor.tabSize": 4,
   "prettier.printWidth": 80,
   "prettier.jsxSingleQuote": false,
   "prettier.jsxBracketSameLine": false,
@@ -7,5 +6,8 @@
   "prettier.useTabs": true,
   "prettier.singleQuote": false,
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+
   
 }
