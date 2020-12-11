@@ -2,7 +2,7 @@
 
 // Q1. make a string out of an array
 {
-  const fruits = ['apple', 'banana', 'orange']
+  const fruits = ["apple", "banana", "orange"]
   const result = fruits.join(',')
   console.log(result)
 }
